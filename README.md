@@ -1,1 +1,1 @@
-"# streamlit-aipartner" 
+学习python中制作的一个小项目
