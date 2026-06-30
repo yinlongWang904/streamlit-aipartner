@@ -1,1 +1,3 @@
 学习python中制作的一个小项目
+调用deekseep-v4pro
+使用时替换apikey即可
